@@ -1,1 +1,1 @@
-export const WIN_MESSAGES = ['łax̣aʔƛ̓as']
+export const WIN_MESSAGES = ['łax̣aʔƛ̓as!']
